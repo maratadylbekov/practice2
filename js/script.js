@@ -8,6 +8,8 @@ const user = 'Denzel';
 
 alert(`Hello, ${user}!`);
 
+console.log('Second Commit Test');
+
 // console.log('Hello, World!');
 
 // let arr = ['orange.png', 'wine.jpg', 'apple.bmp', 'cat', [], {}];
